@@ -1,33 +1,41 @@
-# Website
+Coppernic SDK Documentation
+===========================
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+> Welcome on Coppernic's SDK documentation website.
 
-### Installation
+## Libraries
 
-```
-$ yarn
-```
+Coppernic SDK is a collection of Android libraries to help developer in using peripherals of Coppernic's products. These libraries are hosted on an maven instance available at [nexus.coppernic.fr](https://nexus.coppernic.fr/). You can browse in `libs-release-coppernic` repository and check out what are the last version of our libs.
 
-### Local Development
+While developping your application, please have a look to [quality](quality)
 
-```
-$ yarn start
-```
+## Products
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Coppernic products are:
 
-### Build
+- Access
+- C-five
+- C-One
+    - HF ASK
+    - LF Agrident
+    - HF iClass / LF Prox
+- C-One e-ID
+- C-One²
+    - HF ASK
+    - LF Agrident
+    - HF iClass / LF Prox
+- C-One² e-ID
+- ID Platform
+    - FAP-50
+    - FAP-30
+    - FAP-20
 
-```
-$ yarn build
-```
+## Samples
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+All our samples are hosted on [Github](https://github.com/Coppernic) and are open source ([license](License.md)).
 
-### Deployment
+## Gettings help
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- [Support center](https://support.coppernic.fr/index.php)
+- [Coppernic's website](https://www.coppernic.fr/en/support-en/)
+- [Contact](https://www.coppernic.fr/en/contact-en/)

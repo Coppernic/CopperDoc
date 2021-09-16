@@ -2,34 +2,44 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+Documentation
+=============
 
-Let's discover **Docusaurus in less than 5 minutes**.
+> Welcome on Coppernic's SDK documentation website.
 
-## Getting Started
+## Libraries
 
-Get started by **creating a new site**.
+Coppernic SDK is a collection of Android libraries to help developer in using peripherals of Coppernic's products. These libraries are hosted on an maven instance available at [nexus.coppernic.fr](https://nexus.coppernic.fr/). You can browse in `libs-release-coppernic` repository and check out what are the last version of our libs.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+While developping your application, please have a look to [quality](/start/quality.md)
 
-## Generate a new site
+## Products
 
-Generate a new Docusaurus site using the **classic template**:
+Coppernic products are:
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+- Access
+- C-five
+- C-One
+    - HF ASK
+    - LF Agrident
+    - HF iClass / LF Prox
+- C-One e-ID
+- C-One²
+    - HF ASK
+    - LF Agrident
+    - HF iClass / LF Prox
+- C-One² e-ID
+- ID Platform
+    - FAP-50
+    - FAP-30
+    - FAP-20
 
-## Start your site
+## Samples
 
-Run the development server:
+All our samples are hosted on [Github](https://github.com/Coppernic) and are open source ([license](/start/License.md)).
 
-```shell
-cd my-website
+## Gettings help
 
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+- [Support center](https://support.coppernic.fr/index.php)
+- [Coppernic's website](https://www.coppernic.fr/en/support-en/)
+- [Contact](https://www.coppernic.fr/en/contact-en/)
