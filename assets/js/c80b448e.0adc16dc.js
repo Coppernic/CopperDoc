@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcopper_docusaurus=self.webpackChunkcopper_docusaurus||[]).push([[6657],{5644:function(s){s.exports=JSON.parse('{"allTagsPath":"/CopperDoc/blog/tags","slug":"/CopperDoc/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/CopperDoc/blog/tags/docusaurus"}')}}]);
