@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'CopperDoc',
   tagline: 'Coppernic\'s documentation for developers',
-  url: 'http://developer.coppernic.fr/',
+  url: 'https://developer.coppernic.fr/',
   baseUrl: '/CopperDoc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
